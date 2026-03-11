@@ -14,11 +14,11 @@ Index 01 is currently available in sizes 6–13.
 
 Pick whichever works best for you:
 
-1. **3D print the ring sizer** — Download `20260222-index-01-ring-sizer-FDM-v1.STL` and print it. We've tested it on a Bambu H2C but it should work well on any FDM 3D printer. 
+1. **3D print the ring sizer** — Download [20260222-index-01-ring-sizer-FDM-v1.STL](https://github.com/coredevices/hardware/raw/main/ring/pebble-index-01/20260222-index-01-ring-sizer-FDM-v1.STL) and print it. We've tested it on a Bambu H2C but it should work well on any FDM 3D printer. 
     
     **Please note**: the rings in this file are connected to each other for ease of printing, so you will need to clip the connectors before trying on. These rings are also 'flattened' to not require printing with supports. The real Index 01 will not be flattened like this, of course. If you'd like to print individual sizes rather than all sizes, you can find them in `individual_ring_stls/`.
 
-2. **Order an Index 01 Ring Sizer Kit** from Pebble (available soon).
+2. **Order an [Index 01 Ring Sizer Kit](https://orders.repebble.com)** from Pebble
 3. **Visit a jeweler** and have them measure the diameter index finger, then look at the image below and find the right size.
 
 
