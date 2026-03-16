@@ -18,12 +18,16 @@ Pick whichever works best for you:
     
     **Please note**: the rings in this file are connected to each other for ease of printing, so you will need to clip the connectors before trying on. These rings are also 'flattened' to not require printing with supports. The real Index 01 will not be flattened like this, of course. If you'd like to print individual sizes rather than all sizes, you can find them in `individual_ring_stls/`.
 
-2. **Order an [Index 01 Ring Sizer Kit](https://orders.repebble.com)** from Pebble
+2. **Order an [Index 01 Ring Sizer Kit](https://qr.repebble.com/sizer)** from Pebble
 3. **Visit a jeweler** and have them measure the diameter index finger, then look at the image below and find the right size.
 
 
 ## How do I know which size to pick?
 We recommend printing off the entire set, then experimenting with different sizes on your index finger. You should not force the ring onto your finger. It should feel comfortable. Try wearing it for 24 hours to make sure that you've got the right size. Your fingers actually change in diameter during the day depending on temperature, activity and other factors. 
+
+The ring size is embedded on the outer surface of each ring.
+
+Read the full instructions [here](https://qr.repebble.com/sizer)
 
 ## After 3D printing
 
