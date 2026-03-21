@@ -13,13 +13,16 @@ Index 01 is currently available in sizes 6–13.
 ## How to get the sizing kit
 
 Pick whichever works best for you:
+1. **Order an [Index 01 Ring Sizer Kit](https://shop.repebble.com/cart/51859608404280:1?checkout)** from Pebble **(Recommended)**
 
-1. **3D print the ring sizer** — Download [20260222-index-01-ring-sizer-FDM-v1.STL](https://github.com/coredevices/hardware/raw/main/ring/pebble-index-01/20260222-index-01-ring-sizer-FDM-v1.STL) and print it. We've tested it on a Bambu H2C but it should work well on any FDM 3D printer. In the unlikely event you have an SLA printer, please use the SLA file. But if you don't know the difference between FDM (Fused Deposition Modeling) and SLA (Stereolithography), you most likely have an FDM printer.
+
+2. **3D print the ring sizer (Advanced only)**  
+
+    Download [20260222-index-01-ring-sizer-FDM-v1.STL](https://github.com/coredevices/hardware/raw/main/ring/pebble-index-01/20260222-index-01-ring-sizer-FDM-v1.STL) and print it. We've tested it on a Bambu H2C but it should work well on any FDM 3D printer. In the unlikely event you have an SLA printer, please use the SLA file. After printing, measure the inner diameter with calipers and confirm against the diagram below. The `20260222-index-01-ring-sizer-FDM-v1.STL` file is designed to be slightly larger to account for shrinkage on some 3D printers. If the diameters are incorrect, please try printing one of the 'individual' STL files (which do not have this shrinkage adjustment). 
     
     **Please note**: the rings in this file are connected to each other for ease of printing, so you will need to clip the connectors before trying on. These rings are also 'flattened' to not require printing with supports. The real Index 01 will not be flattened like this, of course. 
 
-2. **Order an [Index 01 Ring Sizer Kit](https://qr.repebble.com/sizer)** from Pebble
-3. **Visit a jeweler** and have them measure the diameter index finger, then look at the image below and find the right size.
+3. **Visit a jeweler** and have them measure the diameter index finger, then look at the image below and find the right size. Please note - our sizes may not line up precisely with your jewelers sizes, so confirm the actual diameter before selecting
 
 
 ## How do I know which size to pick?
